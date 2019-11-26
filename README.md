@@ -1,2 +1,2 @@
-# belajar-html-kelas1
+# belajar-html-kelas2
 pelajaran di smk walisongo semarang
